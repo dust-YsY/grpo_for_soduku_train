@@ -1,4 +1,4 @@
-# 训练一个可以解数独的7b语言模型
+# 训练一个可以解数独的3b语言模型
 
 前段时间看到技术博主Hrishbh Dalal通过强化学习让7B模型学习解决数独问题（原文链接：https://hrishbh.com/teaching-language-models-to-solve-sudoku-through-reinforcement-learning/)
 
